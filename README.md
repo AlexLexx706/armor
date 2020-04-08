@@ -1,5 +1,5 @@
 ---
-description: Проект "БРОНЯ?
+description: Проект "БРОНЯ"
 ---
 
 # Initial page
@@ -12,7 +12,7 @@ description: Проект "БРОНЯ?
 
 ## Компоненты:
 
-1. Мотор колёса:[![](.gitbook/assets/motor-reduktor-dlya-robota.jpg)](https://3d-diy.ru/product/motor-reduktor-148?gclid=CjwKCAjw7LX0BRBiEiwA__gNwy100XIydoq4XtSOxogwof26C1HPoB2ll8_Ak8o-sGIDyINbHPjA0RoC8GQQAvD_BwE)
+1. Мотор колёса:![](.gitbook/assets/motor.jpg)
 2. Драйвер для моторов, H-bridge L9110S:![](.gitbook/assets/driver.jpg) 
 3. Кнопка питания:![](.gitbook/assets/switch.jpg) 
 4. приёмник 6 каналов:[![](.gitbook/assets/receiver.jpg)](https://fccid.io/N4ZFLYSKYIA6B/User-Manual/User-Manual-2578917) 
