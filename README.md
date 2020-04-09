@@ -20,4 +20,5 @@ description: Проект "БРОНЯ"
 6. [ардуино нано](https://arduinomaster.ru/platy-arduino/plata-arduino-nano/):![](.gitbook/assets/arduino-nano.jpg) 
 7. [Аккумулятор lipo 2s 30c 2200 mAH](https://systop.ru/rc-model/26-vse-pro-lipo-akkumulyatory-zaryadka-ekspluataciya-hranenie.html):![](.gitbook/assets/lipo.jpg) 
 8. [Пассивное колесо](https://aliexpress.ru/item/4000284053351.html?spm=a2g0o.productlist.0.0.261e37dbv0Flnx&algo_pvid=f7bfd35a-6827-484c-afd5-3bf700ec3b84&algo_expid=f7bfd35a-6827-484c-afd5-3bf700ec3b84-16&btsid=0b8b036315863901697093215e72bf&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_):![](.gitbook/assets/rolic.jpg) 
+9. [Понижающий DC-DC преобразователь](https://3d-diy.ru/product/ponizhayushhij-dc-dc-preobrazovatel-lm2596?gclid=CjwKCAjw7LX0BRBiEiwA__gNw2KR6lpraJ9YqIhZg96d8xAmmyZsg3aVhUp-Kdx0nNspOJkhPeGh2hoCUvMQAvD_BwE): ![](.gitbook/assets/dc-dc.jpg) 
 
