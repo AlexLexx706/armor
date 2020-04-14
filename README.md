@@ -31,7 +31,7 @@ description: Проект "БРОНЯ"
 7. [Пассивное колесо](https://aliexpress.ru/item/4000284053351.html?spm=a2g0o.productlist.0.0.261e37dbv0Flnx&algo_pvid=f7bfd35a-6827-484c-afd5-3bf700ec3b84&algo_expid=f7bfd35a-6827-484c-afd5-3bf700ec3b84-16&btsid=0b8b036315863901697093215e72bf&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_):![](.gitbook/assets/rolic.jpg) 
 8. [Понижающий DC-DC преобразователь](https://3d-diy.ru/product/ponizhayushhij-dc-dc-preobrazovatel-lm2596?gclid=CjwKCAjw7LX0BRBiEiwA__gNw2KR6lpraJ9YqIhZg96d8xAmmyZsg3aVhUp-Kdx0nNspOJkhPeGh2hoCUvMQAvD_BwE): ![](.gitbook/assets/dc-dc.jpg) 
 
-![](.gitbook/assets/driver_states.png)
+### Схемы компонентов:
 
 ![](.gitbook/assets/anduino_nano_pinout.jpg)
 
