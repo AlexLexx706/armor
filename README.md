@@ -12,7 +12,12 @@ description: Проект "БРОНЯ"
 
 ## Компоненты:
 
-1. [Мотор колёса](https://russian.alibaba.com/product-detail/mini-5v-dc-gear-motor-for-electric-toys-tronsun-motor-t-130-60356151712.html):![](.gitbook/assets/motor.jpg) [интересная страничка](https://3d-diy.ru/wiki/arduino-moduli/drajver-dvigatelya-l9110s/)
+1. [мотор-редукторы](https://russian.alibaba.com/product-detail/mini-5v-dc-gear-motor-for-electric-toys-tronsun-motor-t-130-60356151712.html):![](.gitbook/assets/motor.jpg) [интересная страничка](https://3d-diy.ru/wiki/arduino-moduli/drajver-dvigatelya-l9110s/)
+   1. [Колёса для редукторов](https://voltiq.ru/shop/robot-car-wheels/)![](.gitbook/assets/robot-car-wheels-21-600x600.jpg) размеры: 
+
+   * Ширина колеса: 26,6 мм
+   * Диаметр колеса: 66 мм
+   * Диаметр диска: 51,8 мм
 2. [Драйвер для моторов, H-bridge L9110S](https://www.terraelectronica.ru/product/2091066):![](.gitbook/assets/driver.jpg)  
 3. [Кнопка питания](https://aliexpress.ru/item/32806585772.html?spm=a2g0s.9042311.0.0.264d33edvZchHq):![](.gitbook/assets/switch.jpg) 
 4. [приёмник 6 каналов](https://fccid.io/N4ZFLYSKYIA6B/User-Manual/User-Manual-2578917):![](.gitbook/assets/receiver.jpg) 
