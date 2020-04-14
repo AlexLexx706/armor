@@ -20,7 +20,7 @@ description: Проект "БРОНЯ"
    * Диаметр диска: 51,8 мм
 2. [Драйвер для моторов, H-bridge L9110S](https://www.terraelectronica.ru/product/2091066):![](.gitbook/assets/driver.jpg)  
 3. [Кнопка питания](https://aliexpress.ru/item/32806585772.html?spm=a2g0s.9042311.0.0.264d33edvZchHq):![](.gitbook/assets/switch.jpg) 
-4. [приёмник 6 каналов](https://fccid.io/N4ZFLYSKYIA6B/User-Manual/User-Manual-2578917):![](.gitbook/assets/receiver.jpg) 
+4. [приёмник 6 каналов](https://fccid.io/N4ZFLYSKYIA6B/User-Manual/User-Manual-2578917): FS-R6B ![](.gitbook/assets/receiver.jpg) 
    1. [статься как прочитать PWM](https://www.benripley.com/diy/arduino/three-ways-to-read-a-pwm-signal-with-arduino/)
 5. [Сенсорная кнопка](https://aliexpress.ru/item/32798630944.html?spm=a2g0s.9042311.0.0.264d33edvZchHq):![](.gitbook/assets/switch-touch.jpg) 
 6. Arduino Nano 
