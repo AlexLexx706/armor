@@ -2,7 +2,7 @@
 description: Проект "БРОНЯ"
 ---
 
-# Initial page
+# БРОНЯ
 
 ## Задачи:
 
