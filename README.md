@@ -35,6 +35,10 @@ description: Проект "БРОНЯ"
 
 ![](.gitbook/assets/anduino_nano_pinout.jpg)
 
+ 
+
+![](.gitbook/assets/driver_states.png)
+
 ## Полезные статьи:
 
 1. [Подключение мотора к драйверу и к ардуине](https://3d-diy.ru/wiki/arduino-moduli/drajver-dvigatelya-l9110s/)
