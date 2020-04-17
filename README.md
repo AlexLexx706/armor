@@ -61,3 +61,7 @@ description: Проект "БРОНЯ"
 
 [исходники](https://github.com/AlexLexx706/armor_firmware)
 
+## Чертёж корпуса:
+
+[Сборка](https://cad.onshape.com/documents/f32f16fee08bb404acc67ec5/w/15b2490949f70b6df45c59d8/e/cd9ef433c58be5501cb48e70)
+
