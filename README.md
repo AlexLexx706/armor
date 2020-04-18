@@ -50,9 +50,9 @@ description: Проект "БРОНЯ"
 
   
 
-![](.gitbook/assets/untitled-diagram-2.png)
-
    
+
+![](.gitbook/assets/untitled-diagram-6.png)
 
 ## Задачи прошивки:
 
