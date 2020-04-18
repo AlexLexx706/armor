@@ -44,7 +44,9 @@ description: Проект "БРОНЯ"
 1. [Подключение мотора к драйверу и к ардуине](https://3d-diy.ru/wiki/arduino-moduli/drajver-dvigatelya-l9110s/)
 2. [Обработка PWM сигналов от приёмника](https://eax.me/pwm-ppm-decoding/)
 
-## Электрическая схема: 
+## Электрическая схема:
+
+[программа для редактирования схемы онлайн](https://www.diagrameditor.com/)
 
   
 
